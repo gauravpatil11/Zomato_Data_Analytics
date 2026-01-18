@@ -87,4 +87,4 @@ Screenshots of all dashboard pages are included in the project repository for re
 ---
 
 ## ✅ Conclusion
-This project demonstrates practical **Power BI skills applied to a real-world business scenario**, making it suitable for **Data Analyst and BI Developer roles**.
+This project demonstrates practical **Power BI skills applied to a real-world business scenario**.
